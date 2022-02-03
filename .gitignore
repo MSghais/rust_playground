@@ -1,0 +1,12 @@
+# App
+.cache/
+.env
+.token
+
+# Rust
+/target
+/**/target
+
+# macOS
+.DS_Store
+
