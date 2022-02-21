@@ -1,2 +1,6 @@
-This repository is intended to represent the many scripts I make in Rust to learn, train, practice and create useful script templates.
+This repository is intended to represent the many scripts I make in Rust to learn, train, and practice !
 
+
+
+-- Run all test scripts 
+cargo test --workspace
